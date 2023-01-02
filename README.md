@@ -16,14 +16,15 @@ g. Total turnovers
 
 I created a worksheet and merged all the statistics together. Excel functions used included SUM, COUNTIF, and AVERAGE. Formulars were also used to compute some of the performance indicators. 
 To show the comparison of the three teams, I used a table and the cells were filled in red, green or gold with red indicating the worst performance, green the best and gold indicating the 2nd. 
+A particular performance indicator, Turnovers; which occurs when a team loses possession of the ball to the opposing team before a player takes a shot at the team's basket. Turnovers are harmful for a team because it takes away a team's potential scoring opportunities. In this study, the highest turnovers was recorded by University of Next state(381 turnovers in that season). The cell was filled with red in the table because higher turnover is harmful.
 
 #Answers to the questions in the task are:
 
 a. The team with the highest win-lose percentage is University of State.                            
 b. The team with the highest field goal percentage is University of Next State                                                                                          c. The average points per game for the State University is 74.818                       
 d. The average turnover for University of State is 8.545                                        
-e. The team that had the best performance based on turnovers was University of State                                                                                  f. The additional performance indicators I selected were blocks(BLK) and free throw percentage(FT%). I chose these two because ;
-* a block occurs in basketball when a defensive player legally deflects a field goal attempt from an offensive player to prevent a score, the higher the total blocks of a team, the less chance the opponent will be able to score more goals.                                                                                               *  free throw percentage is gotten by dividing the number of free throws made by the number of free throws attempted. A free throw is a penalty where no one touches the ball except the player who is throwing.                 
+e. The team that had the best performance based on turnovers was University of State                                                                                  f. The additional performance indicators I selected were blocks(BLK) and free throw percentage(FT%). I chose these two because 
+* a block occurs in basketball when a defensive player legally deflects a field goal attempt from an offensive player to prevent a score, the higher the total blocks of a team, the less chance the opponent will be able to score more goals.                                                                                              * free throw percentage is gotten by dividing the number of free throws made by the number of free throws attempted. A free throw is a penalty where no one touches the ball except the player who is throwing.                
 g. I think that the most important performance indicator for this analysis is the total points because the total points is what determines the winner of  a basketball game.
 h. I would say that State University performed the best. Although they had the least number of games won they managed to get the highest points, blocks, steals and free throw percentage.
 
