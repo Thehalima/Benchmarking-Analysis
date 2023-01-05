@@ -17,6 +17,7 @@ g. Total turnovers
 I created a worksheet and merged all the statistics together. Excel functions used included SUM, COUNTIF, and AVERAGE. Formulars were also used to compute some of the performance indicators. 
 To show the comparison of the three teams, I used a table and the cells were filled in red, green or gold with red indicating the worst performance, green the best and gold indicating the 2nd. 
 A particular performance indicator, Turnovers; which occurs when a team loses possession of the ball to the opposing team before a player takes a shot at the team's basket. Turnovers are harmful for a team because it takes away a team's potential scoring opportunities. In this study, the highest turnovers was recorded by University of Next state(381 turnovers in that season). The cell was filled with red in the table because higher turnover is harmful.
+You can view the comparisons among the three groups [here](https://github.com/Thehalima/Benchmarking-Analysis/blob/main/benchmarking.png)
 
 #Answers to the questions in the task are:
 
